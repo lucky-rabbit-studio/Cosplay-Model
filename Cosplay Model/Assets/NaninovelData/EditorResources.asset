@@ -12,4 +12,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06386b10f29c770408fc88b031c4d7fd, type: 3}
   m_Name: EditorResources
   m_EditorClassIdentifier: 
-  resourceCategories: []
+  resourceCategories:
+  - Id: Scripts
+    Resources:
+    - Name: Hello World
+      PathPrefix: Scripts
+      Guid: a698ae5c2facba741b47ea35499682a0
+  - Id: Characters/1f74a7f8-08a7-4a0c-a0c6-8236f39ddc28
+    Resources:
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
+    - Name: 
+      PathPrefix: Characters/Teenie
+      Guid: 
