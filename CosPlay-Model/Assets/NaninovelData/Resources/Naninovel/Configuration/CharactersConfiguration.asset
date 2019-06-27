@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3be34281d83bad429e22787cd3c8069, type: 3}
+  m_Name: CharactersConfiguration
+  m_EditorClassIdentifier: 
+  DefaultEasing: 1
+  SceneOrigin: {x: 0.5, y: 0}
+  AutoArrangeOnAdd: 1
+  DefaultMetadata:
+    Implementation: Naninovel.SpriteCharacter
+    LoaderConfiguration:
+      PathPrefix: Characters
+      ProviderTypes: 0000000001000000
+    guid: 141872e1-0c71-46b6-89ba-12a94110ab94
+    Pivot: {x: 0.5, y: 0}
+    PixelsPerUnit: 100
+    BakedLookDirection: 1
+    DisplayName: 
+    UseCharacterColor: 0
+    NameColor: {r: 1, g: 1, b: 1, a: 1}
+    MessageColor: {r: 1, g: 1, b: 1, a: 1}
+    HighlightWhenSpeaking: 0
+    SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
+    NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    MessageSound: 
+  Metadata:
+    ids:
+    - Koharu
+    - Natoi
+    - Hiyori
+    - Miara
+    metas:
+    - Implementation: Naninovel.Live2DCharacter
+      LoaderConfiguration:
+        PathPrefix: Characters
+        ProviderTypes: 0000000001000000
+      guid: a98fdf36-8ab5-496f-910a-38a8552ed454
+      Pivot: {x: 0.5, y: 0}
+      PixelsPerUnit: 100
+      BakedLookDirection: 1
+      DisplayName: 
+      UseCharacterColor: 0
+      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      MessageColor: {r: 1, g: 1, b: 1, a: 1}
+      HighlightWhenSpeaking: 0
+      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
+      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      MessageSound: 
+    - Implementation: Naninovel.Live2DCharacter
+      LoaderConfiguration:
+        PathPrefix: Characters
+        ProviderTypes: 0000000001000000
+      guid: 87f5b793-ee43-43f7-aaa0-2fbebb3e7b0e
+      Pivot: {x: 0.5, y: 0}
+      PixelsPerUnit: 100
+      BakedLookDirection: 1
+      DisplayName: 
+      UseCharacterColor: 0
+      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      MessageColor: {r: 1, g: 1, b: 1, a: 1}
+      HighlightWhenSpeaking: 0
+      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
+      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      MessageSound: 
+    - Implementation: Naninovel.Live2DCharacter
+      LoaderConfiguration:
+        PathPrefix: Characters
+        ProviderTypes: 0000000001000000
+      guid: f9b3cdeb-df06-4d01-b63a-cd8685a3539d
+      Pivot: {x: 0.5, y: 0}
+      PixelsPerUnit: 100
+      BakedLookDirection: 1
+      DisplayName: 
+      UseCharacterColor: 0
+      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      MessageColor: {r: 1, g: 1, b: 1, a: 1}
+      HighlightWhenSpeaking: 0
+      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
+      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      MessageSound: 
+    - Implementation: Naninovel.Live2DCharacter
+      LoaderConfiguration:
+        PathPrefix: Characters
+        ProviderTypes: 0000000001000000
+      guid: f1f59e2a-64f8-40e3-94a8-2f25affb58d0
+      Pivot: {x: 0.5, y: 0}
+      PixelsPerUnit: 100
+      BakedLookDirection: 1
+      DisplayName: 
+      UseCharacterColor: 0
+      NameColor: {r: 1, g: 1, b: 1, a: 1}
+      MessageColor: {r: 1, g: 1, b: 1, a: 1}
+      HighlightWhenSpeaking: 0
+      SpeakingTint: {r: 1, g: 1, b: 1, a: 1}
+      NotSpeakingTint: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      MessageSound: 
+  AvatarLoader:
+    PathPrefix: CharacterAvatars
+    ProviderTypes: 0000000001000000
