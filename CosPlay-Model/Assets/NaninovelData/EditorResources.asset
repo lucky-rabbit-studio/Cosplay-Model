@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06386b10f29c770408fc88b031c4d7fd, type: 3}
+  m_Name: EditorResources
+  m_EditorClassIdentifier: 
+  resourceCategories:
+  - Id: Scripts
+    Resources:
+    - Name: Start_Scene
+      PathPrefix: Scripts
+      Guid: cdf8bf46e5ec4b247bda38fe6bf4ee73
+    - Name: Live2D_test
+      PathPrefix: Scripts
+      Guid: 0451693a43140c74792d56d4270e2791
+    - Name: Title
+      PathPrefix: Scripts
+      Guid: 30eaf110936ab824589a6c2bb2ee3cc2
+    - Name: Con_Map
+      PathPrefix: Scripts
+      Guid: 094890fa69c24ff45bad6edeccfc1a96
+  - Id: Characters/a98fdf36-8ab5-496f-910a-38a8552ed454
+    Resources:
+    - Name: Koharu
+      PathPrefix: Characters
+      Guid: d3ffe0b31abd753499a6b36239098aa7
+  - Id: Characters/87f5b793-ee43-43f7-aaa0-2fbebb3e7b0e
+    Resources:
+    - Name: Natoi
+      PathPrefix: Characters
+      Guid: a5c5404cd995f72428b1a94ab13ee092
+  - Id: Characters/f9b3cdeb-df06-4d01-b63a-cd8685a3539d
+    Resources:
+    - Name: Hiyori
+      PathPrefix: Characters
+      Guid: b0463b03bc427f040940364fb68c7443
+  - Id: Backgrounds/bd6f5a65-c3d7-4d6d-bd73-07e13ea2c3d8
+    Resources:
+    - Name: Test
+      PathPrefix: Backgrounds/MainBackground
+      Guid: 9ea665f186c61b44a85b55c0101e931f
+  - Id: Movies
+    Resources:
+    - Name: Opening
+      PathPrefix: Movies
+      Guid: 26e5f98a8aec30f4da12ab34e1930196
+  - Id: Audio
+    Resources:
+    - Name: Title_Music
+      PathPrefix: Audio
+      Guid: 5cd402fabf1ba744fbacd05155b0f64b
+    - Name: Arcade
+      PathPrefix: Audio
+      Guid: d2c8e0fa638941d4a8d59bc491099666
+  - Id: Characters/f1f59e2a-64f8-40e3-94a8-2f25affb58d0
+    Resources:
+    - Name: Miara
+      PathPrefix: Characters
+      Guid: f999d43a7cbb19044b9f939c514661fa

@@ -1,0 +1,37 @@
+
+;@goto Con_Map
+
+;@Movie Opening
+@back Test
+@bgm Title_Music
+
+;load chars
+@char Hiyori
+Hiyori: Hellow World!!!
+@br
+Hiyori: I am a Hiyori!!!
+
+;@hide Hiyori
+@hideText
+@input name summary:"Choose your name."
+@stop
+
+Hiyori: Hello {name}, Nice to meet you.
+
+
+there once was a man that had it all. one day he started typing and his fingers couldnt stop. they became bloody and the man died from blood loss. but befor he died he finshed his greatest work. The Hell spawn.; 
+@br
+Print the text, then immediately show choices and stop script execution.
+
+
+Continue executing this script or load another?[skipInput]
+@choice "Continue from the next line"
+@choice "Continue from the specified label" goto:.Main_Screen
+@choice "Load another from start" goto:Con_Map
+@choice "Load another from label" goto:AnotherScript.LabelName
+@stop
+
+
+#Main_Screen
+@title
+@stop

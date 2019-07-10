@@ -1,0 +1,1006 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamMoveX",
+			"GroupId": "ParamGroup13",
+			"Name": "全体 移動 X"
+		},
+		{
+			"Id": "ParamMoveY",
+			"GroupId": "ParamGroup13",
+			"Name": "全体 移動 Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ2",
+			"GroupId": "ParamGroup13",
+			"Name": "体の回転 Z 2"
+		},
+		{
+			"Id": "ParamScaling",
+			"GroupId": "ParamGroup13",
+			"Name": "体の拡縮"
+		},
+		{
+			"Id": "ParamEffect1",
+			"GroupId": "ParamGroup13",
+			"Name": "光の拡縮"
+		},
+		{
+			"Id": "ParamBodyAngleX2",
+			"GroupId": "ParamGroup13",
+			"Name": "体の回転 X 2"
+		},
+		{
+			"Id": "ParamFlapping8",
+			"GroupId": "ParamGroup13",
+			"Name": "左上羽 先 はばたき"
+		},
+		{
+			"Id": "ParamFlapping7",
+			"GroupId": "ParamGroup13",
+			"Name": "左上羽 根本 はばたき"
+		},
+		{
+			"Id": "ParamFlapping4",
+			"GroupId": "ParamGroup13",
+			"Name": "右上羽 先 はばたき"
+		},
+		{
+			"Id": "ParamFlapping3",
+			"GroupId": "ParamGroup13",
+			"Name": "右上羽 根本 はばたき"
+		},
+		{
+			"Id": "ParamFairyDO",
+			"GroupId": "ParamGroup13",
+			"Name": "妖精 描画順"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh181",
+			"GroupId": "ParamGroup18",
+			"Name": "[0]羽右2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh181",
+			"GroupId": "ParamGroup18",
+			"Name": "[1]羽右2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh181",
+			"GroupId": "ParamGroup18",
+			"Name": "[2]羽右2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh181",
+			"GroupId": "ParamGroup18",
+			"Name": "[3]羽右2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh181",
+			"GroupId": "ParamGroup18",
+			"Name": "[4]羽右2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh179",
+			"GroupId": "ParamGroup19",
+			"Name": "[0]羽左2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh179",
+			"GroupId": "ParamGroup19",
+			"Name": "[1]羽左2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh179",
+			"GroupId": "ParamGroup19",
+			"Name": "[2]羽左2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh179",
+			"GroupId": "ParamGroup19",
+			"Name": "[3]羽左2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh179",
+			"GroupId": "ParamGroup19",
+			"Name": "[4]羽左2"
+		},
+		{
+			"Id": "ParamWaterSurfaceLight1",
+			"GroupId": "ParamGroup12",
+			"Name": "水面光 1"
+		},
+		{
+			"Id": "ParamWaterSurfaceLight2",
+			"GroupId": "ParamGroup12",
+			"Name": "水面光 2"
+		},
+		{
+			"Id": "ParamWaterSurfaceLight3",
+			"GroupId": "ParamGroup12",
+			"Name": "水面光 3"
+		},
+		{
+			"Id": "ParamWaterSurface1",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 1"
+		},
+		{
+			"Id": "ParamWaterSurface2",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 2"
+		},
+		{
+			"Id": "ParamWaterSurfaceLower1",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 下 1"
+		},
+		{
+			"Id": "ParamWaterSurfaceLower2",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 下 2"
+		},
+		{
+			"Id": "ParamWaterSurfaceBack1",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 奥 1"
+		},
+		{
+			"Id": "ParamWaterSurfaceBack2",
+			"GroupId": "ParamGroup11",
+			"Name": "水面 奥 2"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup5",
+			"Name": "口 変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup5",
+			"Name": "口 開閉"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup9",
+			"Name": "左目 開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup9",
+			"Name": "右目 開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup9",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup9",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup8",
+			"Name": "左眉 上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup8",
+			"Name": "右眉 上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup8",
+			"Name": "左眉 左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup8",
+			"Name": "右眉 左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup8",
+			"Name": "左眉 角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup8",
+			"Name": "右眉 角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup8",
+			"Name": "左眉 変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup8",
+			"Name": "右眉 変形"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "体の回転 X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "体の回転 Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup6",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup3",
+			"Name": "髪 揺れ 前"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "ParamGroup3",
+			"Name": "髪 揺れ 前 2"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup3",
+			"Name": "髪 揺れ 横"
+		},
+		{
+			"Id": "ParamHairSide2",
+			"GroupId": "ParamGroup3",
+			"Name": "髪揺れ 横 2"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup3",
+			"Name": "髪 揺れ 後"
+		},
+		{
+			"Id": "ParamHairBack2",
+			"GroupId": "ParamGroup3",
+			"Name": "髪揺れ 後 2"
+		},
+		{
+			"Id": "ParamHairTail",
+			"GroupId": "ParamGroup3",
+			"Name": "ツインテール 揺れ"
+		},
+		{
+			"Id": "ParamHairTail2",
+			"GroupId": "ParamGroup3",
+			"Name": "ツインテール 揺れ 2"
+		},
+		{
+			"Id": "ParamHairAho1",
+			"GroupId": "ParamGroup3",
+			"Name": "アホ毛 揺れ"
+		},
+		{
+			"Id": "ParamHairAho2",
+			"GroupId": "ParamGroup3",
+			"Name": "アホ毛 揺れ 2"
+		},
+		{
+			"Id": "ParamHairCloth",
+			"GroupId": "ParamGroup3",
+			"Name": "髪飾り 揺れ"
+		},
+		{
+			"Id": "ParamHairCloth2",
+			"GroupId": "ParamGroup3",
+			"Name": "髪飾り 揺れ 2"
+		},
+		{
+			"Id": "ParambustX",
+			"GroupId": "ParamGroup3",
+			"Name": "胸 揺れ X"
+		},
+		{
+			"Id": "ParamBustY",
+			"GroupId": "ParamGroup3",
+			"Name": "胸 揺れ Y"
+		},
+		{
+			"Id": "ParamChestAccessory",
+			"GroupId": "ParamGroup3",
+			"Name": "胸 アクセサリー 揺れ"
+		},
+		{
+			"Id": "ParamCloth1",
+			"GroupId": "ParamGroup3",
+			"Name": "胸の垂れ布 ねじれ"
+		},
+		{
+			"Id": "ParamCloth2",
+			"GroupId": "ParamGroup3",
+			"Name": "胸の垂れ布 ねじれ 2"
+		},
+		{
+			"Id": "Param_Sleeve",
+			"GroupId": "ParamGroup3",
+			"Name": "袖 揺れ"
+		},
+		{
+			"Id": "Param_Sleeve2",
+			"GroupId": "ParamGroup3",
+			"Name": "袖 揺れ 2"
+		},
+		{
+			"Id": "Param_SleeveRibbon",
+			"GroupId": "ParamGroup3",
+			"Name": "袖リボン 揺れ"
+		},
+		{
+			"Id": "Param_SleeveL",
+			"GroupId": "ParamGroup3",
+			"Name": "左袖 揺れ"
+		},
+		{
+			"Id": "Param_SleeveL2",
+			"GroupId": "ParamGroup3",
+			"Name": "左袖 揺れ 2"
+		},
+		{
+			"Id": "Param_SleeveRibbonL",
+			"GroupId": "ParamGroup3",
+			"Name": "左袖 リボン 揺れ"
+		},
+		{
+			"Id": "ParamPepram1",
+			"GroupId": "ParamGroup3",
+			"Name": "腰布 揺れ"
+		},
+		{
+			"Id": "ParamPepram2",
+			"GroupId": "ParamGroup3",
+			"Name": "腰布 揺れ 2"
+		},
+		{
+			"Id": "ParamRightLegRibbon1",
+			"GroupId": "ParamGroup3",
+			"Name": "右足 リボン 揺れ"
+		},
+		{
+			"Id": "ParamRightLegRibbon2",
+			"GroupId": "ParamGroup3",
+			"Name": "右足 リボン 揺れ 2"
+		},
+		{
+			"Id": "ParamLeftLegRibbon1",
+			"GroupId": "ParamGroup3",
+			"Name": "左足 リボン"
+		},
+		{
+			"Id": "ParamLeftLegRibbon2",
+			"GroupId": "ParamGroup3",
+			"Name": "左足 リボン 2"
+		},
+		{
+			"Id": "ParamArmL1",
+			"GroupId": "ParamGroup4",
+			"Name": "左腕 1"
+		},
+		{
+			"Id": "ParamArmL2",
+			"GroupId": "ParamGroup4",
+			"Name": "左腕 2"
+		},
+		{
+			"Id": "ParamArmL3",
+			"GroupId": "ParamGroup4",
+			"Name": "左腕 3"
+		},
+		{
+			"Id": "ParamFingerL1X",
+			"GroupId": "ParamGroup4",
+			"Name": "左親指"
+		},
+		{
+			"Id": "ParamFingerL1Z",
+			"GroupId": "ParamGroup4",
+			"Name": "左親指 Z"
+		},
+		{
+			"Id": "ParamFingerL2",
+			"GroupId": "ParamGroup4",
+			"Name": "左人差し指"
+		},
+		{
+			"Id": "ParamFingerL3",
+			"GroupId": "ParamGroup4",
+			"Name": "左中指"
+		},
+		{
+			"Id": "ParamFingerL4",
+			"GroupId": "ParamGroup4",
+			"Name": "左薬指小指"
+		},
+		{
+			"Id": "ParamArmR1",
+			"GroupId": "ParamGroup7",
+			"Name": "右腕 1"
+		},
+		{
+			"Id": "ParamArmR2",
+			"GroupId": "ParamGroup7",
+			"Name": "右腕 2"
+		},
+		{
+			"Id": "ParamArmR3",
+			"GroupId": "ParamGroup7",
+			"Name": "右腕 3"
+		},
+		{
+			"Id": "ParamFingerR1",
+			"GroupId": "ParamGroup7",
+			"Name": "右親指"
+		},
+		{
+			"Id": "ParamFingerR2",
+			"GroupId": "ParamGroup7",
+			"Name": "右人差し指"
+		},
+		{
+			"Id": "ParamFingerR3",
+			"GroupId": "ParamGroup7",
+			"Name": "右中指"
+		},
+		{
+			"Id": "ParamFingerR4",
+			"GroupId": "ParamGroup7",
+			"Name": "右薬小指"
+		},
+		{
+			"Id": "ParamLegL1X",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 1 X"
+		},
+		{
+			"Id": "ParamLegL1Z",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 1 Z"
+		},
+		{
+			"Id": "ParamLegL2X",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 2 X"
+		},
+		{
+			"Id": "ParamLegL2Z",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 2 Z"
+		},
+		{
+			"Id": "ParamLegL3X",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 3 X"
+		},
+		{
+			"Id": "ParamLegL3Z",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 3 Z"
+		},
+		{
+			"Id": "ParamLeftLegDO",
+			"GroupId": "ParamGroup2",
+			"Name": "左脚 描画順"
+		},
+		{
+			"Id": "ParamLegR1X",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 1 X"
+		},
+		{
+			"Id": "ParamLegR1Z",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 1 Z"
+		},
+		{
+			"Id": "ParamLegR2X",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 2 X"
+		},
+		{
+			"Id": "ParamLegR2",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 2"
+		},
+		{
+			"Id": "ParamLegR3X",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 3 X"
+		},
+		{
+			"Id": "ParamLegR3Z",
+			"GroupId": "ParamGroup",
+			"Name": "右脚 3 Z"
+		},
+		{
+			"Id": "ParamAllX",
+			"GroupId": "ParamGroup10",
+			"Name": "全体 移動 X"
+		},
+		{
+			"Id": "ParamAllY",
+			"GroupId": "ParamGroup10",
+			"Name": "全体 移動 Y"
+		},
+		{
+			"Id": "ParamAllRotate",
+			"GroupId": "ParamGroup10",
+			"Name": "全体 回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[0]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[1]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[2]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[3]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[4]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[5]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh109",
+			"GroupId": "ParamGroup15",
+			"Name": "[6]左後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[0]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[1]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[2]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[3]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[4]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[5]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh108",
+			"GroupId": "ParamGroup14",
+			"Name": "[6]右後ろの羽"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[0]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[1]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[2]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[3]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[4]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[5]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh76",
+			"GroupId": "ParamGroup16",
+			"Name": "[6]左胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[0]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[1]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[2]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[3]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[4]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[5]右胸の垂れ布"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh77",
+			"GroupId": "ParamGroup17",
+			"Name": "[6]右胸の垂れ布"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "[妖精] 妖精"
+		},
+		{
+			"Id": "ParamGroup18",
+			"GroupId": "",
+			"Name": "[妖精] 羽右"
+		},
+		{
+			"Id": "ParamGroup19",
+			"GroupId": "",
+			"Name": "[妖精] 羽左"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "[背景] 水面光"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "[背景] 水面"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "[ミアラ] 頭"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "[ミアラ] 目"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "[ミアラ] 眉"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "[ミアラ] 体"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "[ミアラ] 揺れ"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "[ミアラ] 左腕"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "[ミアラ] 右腕"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "[ミアラ] 左脚"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "[ミアラ] 右脚"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "[ミアラ] 全体"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "[ミアラ] 左後ろの羽"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "[ミアラ] 右後ろの羽"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "[ミアラ] 左胸の垂れ布"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "[ミアラ] 右胸の垂れ布"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "PartFairy",
+			"Name": "妖精"
+		},
+		{
+			"Id": "PartHairAccessoryFront",
+			"Name": "髪 アクセサリー 手前"
+		},
+		{
+			"Id": "PartHairFront",
+			"Name": "前髪"
+		},
+		{
+			"Id": "PartHairSideL",
+			"Name": "左横髪"
+		},
+		{
+			"Id": "PartHairAhoge",
+			"Name": "アホ毛"
+		},
+		{
+			"Id": "PartHairSideR",
+			"Name": "右横髪"
+		},
+		{
+			"Id": "PartArmL",
+			"Name": "左腕"
+		},
+		{
+			"Id": "PartHairL",
+			"Name": "左髪"
+		},
+		{
+			"Id": "PartFace",
+			"Name": "顔"
+		},
+		{
+			"Id": "PartBody",
+			"Name": "体"
+		},
+		{
+			"Id": "PartArmR",
+			"Name": "右腕"
+		},
+		{
+			"Id": "PartHairR",
+			"Name": "右髪"
+		},
+		{
+			"Id": "PartHairBack",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "PartBackgroundAll",
+			"Name": "背景 全体"
+		},
+		{
+			"Id": "PartFairyBody",
+			"Name": "胴体"
+		},
+		{
+			"Id": "PartFairyUpperWingL",
+			"Name": "左上羽"
+		},
+		{
+			"Id": "PartFairyLowerWingL",
+			"Name": "左下羽"
+		},
+		{
+			"Id": "PartFairyUpperWingR",
+			"Name": "右上羽"
+		},
+		{
+			"Id": "PartFairyLowerWingR",
+			"Name": "右下羽"
+		},
+		{
+			"Id": "PartHandL",
+			"Name": "左手"
+		},
+		{
+			"Id": "PartHairTwinL",
+			"Name": "左ツインテール"
+		},
+		{
+			"Id": "PartBrow",
+			"Name": "眉"
+		},
+		{
+			"Id": "PartEye",
+			"Name": "目"
+		},
+		{
+			"Id": "PartMouth",
+			"Name": "口"
+		},
+		{
+			"Id": "PartUpperBody",
+			"Name": "上半身"
+		},
+		{
+			"Id": "PartLawerBody",
+			"Name": "下半身"
+		},
+		{
+			"Id": "ArtMesh109_Skinning",
+			"Name": "左後ろの羽(スキニング)"
+		},
+		{
+			"Id": "PartWingBackLRotation",
+			"Name": "左後ろの羽(回転)"
+		},
+		{
+			"Id": "ArtMesh108_Skinning",
+			"Name": "右後ろの羽(スキニング)"
+		},
+		{
+			"Id": "PartWingBackRRotation",
+			"Name": "右後ろの羽(回転)"
+		},
+		{
+			"Id": "PartHairTwinR",
+			"Name": "右ツインテール"
+		},
+		{
+			"Id": "PartHairSideLBack",
+			"Name": "左横髪 奥"
+		},
+		{
+			"Id": "PartHairBackRBack",
+			"Name": "後ろ髪 右奥"
+		},
+		{
+			"Id": "PartHairBackTail",
+			"Name": "後ろ髪 テール"
+		},
+		{
+			"Id": "PartWaterSurface",
+			"Name": "水面"
+		},
+		{
+			"Id": "PartBackground",
+			"Name": "背景"
+		},
+		{
+			"Id": "ArtMesh179_Skinning",
+			"Name": "羽左2(スキニング)"
+		},
+		{
+			"Id": "PartWingL2Rotation",
+			"Name": "羽左2(回転)"
+		},
+		{
+			"Id": "ArtMesh181_Skinning",
+			"Name": "羽右2(スキニング)"
+		},
+		{
+			"Id": "PartWingR2Rotation",
+			"Name": "羽右2(回転)"
+		},
+		{
+			"Id": "PartBust",
+			"Name": "胸元"
+		},
+		{
+			"Id": "PartTrunk",
+			"Name": "胴周り"
+		},
+		{
+			"Id": "PartLegL",
+			"Name": "左脚"
+		},
+		{
+			"Id": "PartLegR",
+			"Name": "右脚"
+		},
+		{
+			"Id": "PartSparkle",
+			"Name": "キラキラ"
+		},
+		{
+			"Id": "PartWaterSurfaceUpper",
+			"Name": "水面上"
+		},
+		{
+			"Id": "PartWaterSurfaceBack",
+			"Name": "水面奥"
+		},
+		{
+			"Id": "PartWaterSurfaceUnder",
+			"Name": "水面下"
+		},
+		{
+			"Id": "ArtMesh76_Skinning",
+			"Name": "左胸の垂れ布(スキニング)"
+		},
+		{
+			"Id": "PartChestClothLRotation",
+			"Name": "左胸の垂れ布(回転)"
+		},
+		{
+			"Id": "ArtMesh77_Skinning",
+			"Name": "右胸の垂れ布(スキニング)"
+		},
+		{
+			"Id": "PartChestClothRRotation",
+			"Name": "右胸の垂れ布(回転)"
+		},
+		{
+			"Id": "PartWaterSurfaceReflection",
+			"Name": "水面の反射"
+		}
+	]
+}

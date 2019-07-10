@@ -1,0 +1,112 @@
+
+@stop#Map
+@back Mapv2
+@hideText
+
+;booths
+;collum1 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-887,472 goto:.HomeScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-887,352 goto:.HomeScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-887,235 goto:.HomeScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-887,117 goto:.HomeScene
+
+;collum 2 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-760,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-760,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-760,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-760,117 goto:.ShopScene
+
+;collum 3 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-578,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-578,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-578,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-578,117 goto:.ShopScene
+
+;collum 4 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-451,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-451,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-451,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-451,117 goto:.ShopScene
+
+;collum 5 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-270,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-270,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-270,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-270,117 goto:.ShopScene
+
+;collum 6 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:-143,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-143,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-143,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:-143,117 goto:.ShopScene
+
+;collum 7 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:58,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:58,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:58,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:58,117 goto:.ShopScene
+
+;collum 8 row1 row2 row3 row4
+@choice handler:ButtonArea button:MapButtons/Booth pos:185,472 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:185,352 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:185,235 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Booth pos:185,117 goto:.ShopScene
+
+;Panals 
+@choice handler:ButtonArea button:MapButtons/Panal pos:520,207 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Panal pos:520,440 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Panal pos:870,440 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Panal pos:870,207 goto:.ShopScene
+
+;Cafe
+@choice handler:ButtonArea button:MapButtons/Cafe pos:845,-310 goto:.ShopScene
+
+;Food Court
+@choice handler:ButtonArea button:MapButtons/Food_Court pos:520,-200 goto:.ShopScene
+
+;Stage Area
+@choice handler:ButtonArea button:MapButtons/Stage_Seating pos:200,-200 goto:.ShopScene
+@choice handler:ButtonArea button:MapButtons/Stage pos:200,-425 goto:.ShopScene
+
+;Gamming Area
+@choice handler:ButtonArea button:MapButtons/Gamming_Area pos:-125,-200 goto:.ShopScene
+
+;DJ Area
+@choice handler:ButtonArea button:MapButtons/DJ pos:-125,-425 goto:.ShopScene
+
+;Dance Floor
+@choice handler:ButtonArea button:MapButtons/Dance_Floor pos:-450,-310 goto:.ShopScene
+
+;Info Area
+@choice handler:ButtonArea button:MapButtons/Info pos:-800,-200 goto:.ShopScene
+
+;Security Area
+@choice handler:ButtonArea button:MapButtons/Security pos:-800,-400 goto:.ShopScene
+
+;@choice handler:ButtonArea button:MapButtons/Booth pos:0,0 goto:.ZeroScene
+;@choice handler:ButtonArea button:MapButtons/Booth pos:700,400 goto:.LargeScene
+
+
+@stop
+
+# HomeScene
+@back Home
+Home, sweet home!
+@goto .Map
+
+# ShopScene
+@back Shop
+Don't forget about cucumbers!
+@goto .Map
+
+# ZeroScene
+@back Shop
+This is 0 0
+@goto .Map
+
+# LargeScene
+@back Shop
+This is 500 500
+@goto .Map
+
+

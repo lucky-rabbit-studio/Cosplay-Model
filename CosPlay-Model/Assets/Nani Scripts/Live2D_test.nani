@@ -1,0 +1,13 @@
+@bgm Arcade
+
+@char Hiyori
+@char Miara.Default
+1
+@char Hiyori.Happy pos:35
+2
+@char Hiyori.Angry pos:75
+3
+@char Hiyori.Default pos:50
+@br
+@title
+@stop
