@@ -82,7 +82,7 @@ Material:
     - _UseUIAlphaClip: 0
     - _ZWrite: 1
     m_Colors:
-    - _CharClipRect: {r: -581.63855, g: -495.00003, b: -581.63855, a: -495.00003}
+    - _CharClipRect: {r: -996.72296, g: -495.00003, b: -996.72296, a: -495.00003}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _LineClipRect: {r: -581.63855, g: -495.00003, b: -581.63855, a: -495.00003}
+    - _LineClipRect: {r: -996.72296, g: -495.00003, b: -996.72296, a: -495.00003}
